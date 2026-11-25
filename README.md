@@ -61,7 +61,7 @@ A student platform built around the daily challenges students face when looking 
 **Key Features**:
 - Job application management in one simple, distraction-free place
 - CV analysis tool with feedback to help students land internships
-- Designed and built end to end as a solo project
+
 
 **Tech**: HTML, CSS, JavaScript
 
